@@ -1,0 +1,8 @@
+C:\Users\chenting.weng\Desktop\createTagFile\createTagFile\bin\Release\createTagFile.exe.config
+C:\Users\chenting.weng\Desktop\createTagFile\createTagFile\bin\Release\createTagFile.exe
+C:\Users\chenting.weng\Desktop\createTagFile\createTagFile\bin\Release\createTagFile.pdb
+C:\Users\chenting.weng\Desktop\createTagFile\createTagFile\obj\Release\createTagFile.Form1.resources
+C:\Users\chenting.weng\Desktop\createTagFile\createTagFile\obj\Release\createTagFile.Properties.Resources.resources
+C:\Users\chenting.weng\Desktop\createTagFile\createTagFile\obj\Release\createTagFile.csproj.GenerateResource.Cache
+C:\Users\chenting.weng\Desktop\createTagFile\createTagFile\obj\Release\createTagFile.exe
+C:\Users\chenting.weng\Desktop\createTagFile\createTagFile\obj\Release\createTagFile.pdb

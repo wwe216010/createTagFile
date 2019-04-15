@@ -1,0 +1,18 @@
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\bin\Debug\createInnerTPFfromSIS.exe.config
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\bin\Debug\createInnerTPFfromSIS.exe
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\bin\Debug\createInnerTPFfromSIS.pdb
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.csprojResolveAssemblyReference.cache
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.Form1.resources
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.Properties.Resources.resources
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.csproj.GenerateResource.Cache
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.exe
+c:\users\chenting.weng\documents\visual studio 2012\Projects\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.pdb
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\bin\Debug\createInnerTPFfromSIS.exe.config
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.exe
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.pdb
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\bin\Debug\createInnerTPFfromSIS.exe
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\bin\Debug\createInnerTPFfromSIS.pdb
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.csprojResolveAssemblyReference.cache
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.Form1.resources
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.Properties.Resources.resources
+D:\CloudStation\00.專案\04-FETC\02-BMS 開發相關文件\11-其餘程式\createInnerTPFfromSIS\createInnerTPFfromSIS\obj\Debug\createInnerTPFfromSIS.csproj.GenerateResource.Cache
